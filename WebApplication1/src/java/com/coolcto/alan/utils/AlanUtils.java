@@ -5,17 +5,19 @@
  */
 package com.coolcto.alan.utils;
 
-import com.coolcto.alan.model.Person;
+
+import com.coolcto.alan.model.*;
 
 /**
  *
  * @author liu
  */
+
 public class AlanUtils {
     
     public static void main(String[] args){
         System.out.println(compare());
-        
+
     }
     public static boolean compare() {
         Person alan = new Person(18,"alan");

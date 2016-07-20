@@ -3,22 +3,22 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 package com.coolcto.alan.model;
 
 /**
  *
  * @author liu
  */
-public class Alan extends Man{
-    public Alan(){
-//         int age;
+public class Alan extends Man {
+
+    public Alan() {
+//    int age;
 //    int height;
 //    String name;
-        this.age=20;
-        this.height=170;
-        this.name="alan";
+        this.age = 20;
+        this.height = 170;
+        this.name = "alan";
 
     }
-    
+
 }
