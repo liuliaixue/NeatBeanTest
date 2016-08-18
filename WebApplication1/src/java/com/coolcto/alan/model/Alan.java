@@ -5,6 +5,7 @@
  */
 package com.coolcto.alan.model;
 
+
 /**
  *
  * @author liu
@@ -20,5 +21,11 @@ public class Alan extends Man {
         this.name = "alan";
 
     }
+    
+//    public int chuangeAge(int age){
+//        age = 6;
+//        return age;
+//    }
+    
 
 }
